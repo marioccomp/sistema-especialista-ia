@@ -1,0 +1,6 @@
+venv/
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+enunciado-e2-ia-20261.pdf
